@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xee
+- 👋 Hi, I’m @Xee (pronouce like See)
 - 👀 I’m interested in becoming a full stack developer. I'm planning a career transition into the tech field.
 - 🌱 I’m currently learning Front End Software Development at Promineo Tech as of November 2021.
 - 💞️ I’m looking to collaborate on anything, I'm sure you would be able to teach me so much as I start this journey.
